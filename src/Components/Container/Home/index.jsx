@@ -31,7 +31,7 @@ function Home() {
         <div>
           {/* <button id="Btn">Download CV</button> */}
           <button id="Btn">
-            <Link class="btnlink" to={"https://drive.google.com/file/d/1FifyL4C5x9F8FjNfQJAb6R0MzIOYS51K/view"}>
+            <Link class="btnlink" to={"https://drive.google.com/file/d/1H5ARmg3p3JsQhpjn_JjQiwzFuykA2QX1/view"}>
               Download CV
             </Link>
           </button>
