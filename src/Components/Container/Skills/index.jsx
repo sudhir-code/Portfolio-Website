@@ -17,7 +17,7 @@ function Skills() {
                 <p style={{textAlign:"left"}}>
            <Image src='https://www.vectorlogo.zone/logos/java/java-ar21.svg' alt='vectorlogo.zone'height="50" width="120"/>
                   <Image src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="vectorlogo.zone" height="50" width="120"/>
-                  <Image src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="vectorlogo.zone" height="50" width="120"/>
+                  <Image src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="vectorlogo.zone" height="50" width="120"/>
                   <Image src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="vectorlogo.zone"/>
                   <Image src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="upload.wikimedia.org" height="60" width="90"/>
                   <Image src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="vectorlogo.zone" height="50" width="190"/>
