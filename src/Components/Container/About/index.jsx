@@ -80,6 +80,13 @@ function About() {
 
   <Col lg={3} md ={4} className=" mt-4 mt-md-0">
     <div className="icon-box">
+    <RiCodeSSlashFill  style={{color: "#28a745"}} className='ri'/>
+      <h3>Backend Development</h3>
+    </div>
+  </Col>
+  
+  <Col lg={3} md ={4} className=" mt-4 mt-md-0">
+    <div className="icon-box">
       <RiFileList3Line style={{color: "#47aeff"}} className='ri'/>
       <h3>Algorithms</h3>
     </div>
