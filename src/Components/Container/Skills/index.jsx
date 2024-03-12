@@ -32,7 +32,6 @@ function Skills() {
                   <Image src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="NodeJS" width="120" height="50"/>
                   <Image src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="NodeJS" width="120" height="50"/>
                   <Image src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="ExpressJS" width="120" height="50"/>
-                  <Image src="assets/img/skills/fastify.png" alt="vectorlogo.zone" width="120" height="50"/>
                   <Image src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="vectorlogo.zone" width="120" height="50"/>
               </p>
           </Col>
