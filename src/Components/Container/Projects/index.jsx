@@ -30,15 +30,15 @@ function Projects() {
               />
               <div className="portfolio-info">
                 <div className="portfolio-links">
-                  <a
-                    href="projects/bot.html"
+                   <Link
+                    to={"https://github.com/sudhir-code/YoutubeClone"}
                     data-gall="portfolioDetailsGallery"
                     data-vbtype="iframe"
                     className="venobox"
                     title="Project Details"
                   >
-                    <i className="bx bx-info-circle"></i>
-                  </a>
+                    <CiCircleInfo className="bx" />
+                  </Link>
                 </div>
               </div>
             </div>
@@ -57,15 +57,15 @@ function Projects() {
               />
               <div className="portfolio-info">
                 <div className="portfolio-links">
-                  <a
-                    href="projects/job_portal.html"
+                 <Link
+                    to={"https://github.com/sudhir-code/Candy-Crush-Clone"}
                     data-gall="portfolioDetailsGallery"
                     data-vbtype="iframe"
                     className="venobox"
                     title="Project Details"
                   >
-                    <i className="bx bx-info-circle"></i>
-                  </a>
+                    <CiCircleInfo className="bx" />
+                  </Link>
                 </div>
               </div>
             </div>
@@ -84,15 +84,15 @@ function Projects() {
               />
               <div class="portfolio-info">
                 <div class="portfolio-links">
-                  <a
-                    href="projects/quiz.html"
+                 <Link
+                    to={"https://github.com/sudhir-code/QuizProject"}
                     data-gall="portfolioDetailsGallery"
                     data-vbtype="iframe"
                     className="venobox"
                     title="Project Details"
                   >
-                    <i className="bx bx-info-circle"></i>
-                  </a>
+                    <CiCircleInfo className="bx" />
+                  </Link>
                 </div>
               </div>
             </div>
@@ -111,15 +111,15 @@ function Projects() {
               />
               <div className="portfolio-info">
                 <div className="portfolio-links">
-                  <a
-                    href="projects/todo.html"
+                <Link
+                    to={"https://github.com/sudhir-code/TodoList"}
                     data-gall="portfolioDetailsGallery"
                     data-vbtype="iframe"
                     className="venobox"
                     title="Project Details"
                   >
-                    <i className="bx bx-info-circle"></i>
-                  </a>
+                    <CiCircleInfo className="bx" />
+                  </Link>
                 </div>
               </div>
             </div>
@@ -138,15 +138,15 @@ function Projects() {
               />
               <div class="portfolio-info">
                 <div class="portfolio-links">
-                  <a
-                    href="projects/tictactoe.html"
+                  <Link
+                    to ={"https://github.com/sudhir-code/Tic-Tac-Toe"}
                     data-gall="portfolioDetailsGallery"
                     data-vbtype="iframe"
                     className="venobox"
                     title="Project Details"
                   >
-                    <i className="bx bx-info-circle"></i>
-                  </a>
+                    <CiCircleInfo className="bx" />
+                  </Link>
                 </div>
               </div>
             </div>
