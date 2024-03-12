@@ -6,7 +6,9 @@ import tic from "../Assets/tic-tac-toe.jpg";
 import quiz from "../Assets/quiz.jpg";
 import youtube from "../Assets/youtube clone.webp";
 import Candycrush from "../Assets/Candy-crush.jpg";
-import todo from "../Assets/ToDo-List.webp"
+import todo from "../Assets/ToDo-List.webp";
+import { CiCircleInfo } from "react-icons/ci";
+import { Link } from "react-router-dom";
 import "./styles.css";
 function Projects() {
   return (
